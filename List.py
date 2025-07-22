@@ -1,3 +1,4 @@
+
 lst = []
 N = int(input("Enter a number: "))
 for _ in range(N):
